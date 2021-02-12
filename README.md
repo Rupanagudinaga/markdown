@@ -29,5 +29,5 @@ hytsqhqj
 - eee
    * EEE
 ### code
-`python
+```python
 print("hello")
