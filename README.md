@@ -33,3 +33,4 @@ hytsqhqj
 print("hello")
 ```
 ### task Insert a code of hello in c
+print("hello world")
