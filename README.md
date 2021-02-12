@@ -22,15 +22,10 @@ hytsqhqj
  3. cse
    1. mech
    2. ece
-### Unordered List
-- ece
-   - eceA
-   -eceB
-- eee
-   * EEE
-### code
-```python
-print("hello")
-```
-### task Insert a code of hello in c
-print("hello world")
+   ### unorderd list
+   - ece
+      * eceA
+      * eceB
+      print("hell"
+      ...
+      ### task insert a code of hello in c
