@@ -2,25 +2,23 @@
 ## heading2
 ### heading 3
 ######  heading 
-**ece**
 ### bold text
+**ece**
 _ece_
-### Italic text
+## bold and italic
 *ece*
-**__ece__**
-## bold and Italic
-**_ece_**
-__*ece*__
-### Block Quote
-> jyothi
-### Nested Block Quotes
-> jyothi
->> hbugrffh
->>> hhfri
->>>> uugtrhj
-### Ordered List
+_ece_
+### bold and italic
+** _ece_**
+### block code
+### nested block quorts
+...gysduihjqsdqghg
+hytsqhqj
+### ordered list
 1. ece
 2. eee
-  1. cse
-  2. mech
-3. eee  
+   1. eeeA
+   2. eeeB
+ 3. cse
+   1. mech
+   2. ece
