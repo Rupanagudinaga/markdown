@@ -31,3 +31,5 @@ hytsqhqj
 ### code
 ```python
 print("hello")
+```
+### task Insert a code of hello in c
