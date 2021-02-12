@@ -44,4 +44,4 @@ hytsqhqj
 ![insertimage](https://github.com/Rupanagudinaga/markdown.git)
 ft6y
 ## inserting videos
-[![video](https://img.youtube.com/watch?v=hoNb6HuNmU0/0.jpg)](https://www.youtube.com/watch?v=hoNb6HuNmU0
+[![video](https://img.youtube.com/watch?v=hoNb6HuNmU0/0.jpg)](https://www.youtube.com/watch?v=hoNb6HuNmU0)
