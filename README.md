@@ -2,12 +2,9 @@
 ## heading2
 ### heading 3
 ######  heading 
-**ece**
 ### bold text
+**ece**
 _ece_
-### Italic text
+## bold and italic
 *ece*
-**__ece__**
-## bold and Italic
-**_ece_**
-__*ece*__
+_ece_
