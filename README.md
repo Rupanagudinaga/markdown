@@ -2,19 +2,15 @@
 ## heading2
 ### heading 3
 ######  heading 
-**ece**
 ### bold text
+**ece**
 _ece_
-### Italic text
+## bold and italic
 *ece*
-**__ece__**
-## bold and Italic
-**_ece_**
-__*ece*__
-### Block Quote
-> jyothi
-### Nested Block Quotes
-> jyothi
->> hbugrffh
->>> hhfri
->>>> uugtrhj
+_ece_
+### bold and italic
+** _ece_**
+### block code
+### nested block quorts
+...gysduihjqsdqghg
+hytsqhqj
