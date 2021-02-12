@@ -1,4 +1,4 @@
-# makdown syntax
+# markdown syntax
 ## heading2
-### heading3
-###### heading6
+### heading 3
+######  heading 
