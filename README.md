@@ -43,3 +43,5 @@ hytsqhqj
 [git][https://www.google.com/search?q=git&rlz=1C1CHBF_enIN875IN875&oq=git&aqs=chrome.0.69i59l2j46i433j0i131i433l2j0j0i131i433j69i60.2839j0j15&sourceid=chrome&ie=UTF-8#]
 ![insertimage](https://github.com/Rupanagudinaga/markdown.git)
 ft6y
+## inserting videos
+[![video](https://www.youtube.com/watch?v=hoNb6HuNmU0/0.jpg)](https://www.youtube.com/watch?v=hoNb6HuNmU0
